@@ -23,3 +23,4 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 | Secreto |   ¿Pistas?...      |
 | :-----: | :----------------: |
 |   #01   | you have new email |
+|   #02   | codigo Konami      |
