@@ -16,12 +16,10 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 
 | Challenge |                                   Solución                                   |
 | :-------: | :---------------------------------: |
-|    #01    | [JS](CHALLENGE01/js/index.js) |
+|    #01    | [JS](CHALLENGE01/js/index.js) <br/>[PHP](CHALLENGE01/php/index.php)| 
 
 ## Tabla de secretos
 
 | Secreto |   ¿Pistas?...      |
 | :-----: | :----------------: |
-|   #01   | imagen blureada    |
-|   #02   | you have new email |
-|   #03   | konami code        |
+|   #01   | you have new email |
