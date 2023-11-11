@@ -22,14 +22,12 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 
 ### Tabla de secretos
 
-| Secreto |   ¿Pistas?...      |  Solved  |
-
-| :-----: | :----------------: | :------ :|
-
-|   #01   | you have new email |  ✅     |
-|   #02   | codigo Konami      |  ✅     |
-|   #02   | Blured image       |          |
-|   #04   | magical word       |  ✅     |
-|   #05   | new email          |  ✅     |
-|   #06   | It's Magic         |          |
+| Secreto  | ¿Pistas?...   | Solved |
+| -------- | ------------------ | ------ |
+| #01      | Secret code        | ✅     |
+| #02      | You have and email | ✅     |
+| #03      | Blured image       | ✅     |
+| #04      | Confetti           | ✅     |
+| #05      | Riddle             | ✅     |
+| #06      | It's Magic         | ✅     |
 
