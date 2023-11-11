@@ -20,7 +20,7 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 |    #02    | [JS](CHALLENGE02/js/index.js) <br/>[PHP](CHALLENGE02/php/index.php)| 
 
 
-## Tabla de secretos
+### Tabla de secretos
 
 | Secreto |   ¿Pistas?...      |  Solved  |
 
@@ -31,5 +31,5 @@ Resolución de retos y pistas de los secretos que encontré del juego [codember]
 |   #02   | Blured image       |          |
 |   #04   | magical word       |  ✅     |
 |   #05   | new email          |  ✅     |
-| #06     | It's Magic         |          |
+|   #06   | It's Magic         |          |
 
